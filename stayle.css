@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #DAA520;
+}
+
+.relogio {
+  
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.display {
+    background-color: #FFFFF0;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 10px;
+    font-size: 7rem;
+    border: 10px solid #000;
+    
+}
+
+
+footer{
+    font-size: 2rem;
+    margin-top: 10px;
+}
